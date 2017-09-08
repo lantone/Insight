@@ -1,2 +1,2 @@
-# Insight
-repo of all the code I wrote as a part of the Insight data science fellowship
+# InsightRandom
+some one-off scripts I wrote for projects various and sundry
